@@ -1,0 +1,19 @@
+wrangler.jsonc
+  s_36760422e20464::t_6ae40251cef473 72,78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "2beccb66771085dbe9714e7dcd3bda6b9f072fba",
+  "prompts": {},
+  "sessions": {
+    "s_36760422e20464": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01f69278-61a2-4555-bf23-4178f1aaab7c",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "DrMxrcy <drmxrcy@gmail.com>"
+    }
+  }
+}
